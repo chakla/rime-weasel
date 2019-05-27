@@ -1,0 +1,20 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon May 27 11:49:33 2019"
+  rime_version: 1.4.0
+patch:
+  "style/color_scheme": so_young
+  "style/horizontal": true
+  "app_options/chrome.exe/ascii_mode": true
+  "app_options/excel.exe/ascii_mode": true
+  "app_options/word.exe/ascii_mode": true
+  "app_options/terminus.exe/ascii_mode": true
+  "app_options/xshell.exe/ascii_mode": true
+  "app_options/studio64.exe/ascii_mode": true
+  "app_options/studio.exe/ascii_mode": true
+  "app_options/SSEXP.exe/ascii_mode": true
+  "app_options/explorer.exe/ascii_mode": true
+  "app_options/notepad++.exe/ascii_mode": true
+  

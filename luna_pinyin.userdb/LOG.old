@@ -1,0 +1,6 @@
+2019/05/25-11:14:36.616 2724 Log #12: 0 ops saved to Table #13 OK
+2019/05/25-11:14:36.616 2724 Archiving D:\env\rime\luna_pinyin.userdb/000012.log: IO error: D:\env\rime\luna_pinyin.userdb/000012.log: 另一个程序正在使用此文件，进程无法访问。
+2019/05/25-11:14:36.617 2724 Table #5: 5 entries OK
+2019/05/25-11:14:36.617 2724 Table #8: 16 entries OK
+2019/05/25-11:14:36.617 2724 Table #11: 2 entries OK
+2019/05/25-11:14:36.619 2724 Archiving D:\env\rime\luna_pinyin.userdb/MANIFEST-000010: IO error: D:\env\rime\luna_pinyin.userdb/MANIFEST-000010: 另一个程序正在使用此文件，进程无法访问。
